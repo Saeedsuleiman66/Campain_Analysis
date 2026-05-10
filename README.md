@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Data Analysis](https://img.shields.io/badge/Focus-EDA%20%26%20Insights-green)
-![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
 
 ## 📌 Project Overview
 This project focuses on performing a deep-dive **Customer Personality Analysis** for a retail company. The goal is to understand customer segments, purchasing behaviors, and campaign responses to optimize marketing strategies and maximize ROI.
