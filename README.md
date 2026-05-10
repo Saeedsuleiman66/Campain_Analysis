@@ -11,7 +11,7 @@ By analyzing demographics, spending habits, and engagement timing, this project 
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Environment:** Databricks / Jupyter Notebook
+- **Environment:** Jupyter Notebook
 - **Techniques:** Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Statistical Correlation.
 
 ## 📁 Data Architecture
